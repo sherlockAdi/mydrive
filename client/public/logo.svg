@@ -1,0 +1,12 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon: stylized document/folder with coral accent -->
+  <g>
+    <rect x="4" y="8" width="32" height="32" rx="8" fill="#ff6b5c"/>
+    <rect x="12" y="16" width="16" height="16" rx="4" fill="#fff"/>
+    <rect x="16" y="20" width="8" height="2.5" rx="1.2" fill="#ff6b5c"/>
+    <rect x="16" y="25" width="6" height="2.5" rx="1.2" fill="#ff6b5c"/>
+  </g>
+  <!-- Brand text -->
+  <text x="48" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#222">My</text>
+  <text x="88" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#ff6b5c">Drive</text>
+</svg>
